@@ -44,13 +44,10 @@ This algorithm was proposed in [6]. It is somehow complicated, so we would sugge
 # Network Resilience
 We performed a random attack on the networks by randomly removing a node each time, and then calculated the number of nodes in the largest remaining component.
 
-# Acknowledgement
-
-
 # References
-1.Girvan, Michelle, and Mark EJ Newman. "Community structure in social and biological networks." Proceedings of the national academy of sciences 99.12 (2002): 7821-7826.
-2.Newman, Mark EJ. "Finding community structure in networks using the eigenvectors of matrices." Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 74.3 (2006): 036104.
-3.West, Douglas Brent. Introduction to graph theory. Vol. 2. Upper Saddle River: Prentice hall, 2001.
-4.Strogatz, Steven H. "Exploring complex networks." nature 410.6825 (2001): 268-276.
-5.Radicchi, Filippo, et al. "Defining and identifying communities in networks." Proceedings of the national academy of sciences 101.9 (2004): 2658-2663.
-6.Clauset, Aaron, Mark EJ Newman, and Cristopher Moore. "Finding community structure in very large networks." Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 70.6 (2004): 066111.
+1. Girvan, Michelle, and Mark EJ Newman. "Community structure in social and biological networks." Proceedings of the national academy of sciences 99.12 (2002): 7821-7826.
+2. Newman, Mark EJ. "Finding community structure in networks using the eigenvectors of matrices." Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 74.3 (2006): 036104.
+3. West, Douglas Brent. Introduction to graph theory. Vol. 2. Upper Saddle River: Prentice hall, 2001.
+4. Strogatz, Steven H. "Exploring complex networks." nature 410.6825 (2001): 268-276.
+5. Radicchi, Filippo, et al. "Defining and identifying communities in networks." Proceedings of the national academy of sciences 101.9 (2004): 2658-2663.
+6. Clauset, Aaron, Mark EJ Newman, and Cristopher Moore. "Finding community structure in very large networks." Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 70.6 (2004): 066111.
