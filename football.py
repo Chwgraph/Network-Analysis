@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-MSDM5056 Proj1 Small Network
-
-@author: 17100
+football
 """
 
 
